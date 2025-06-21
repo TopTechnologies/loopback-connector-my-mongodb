@@ -1,5 +1,5 @@
 {
-  "name": "my-loopback-connector-mongodb",
+  "name": "loopback-connector-my-mongodb",
   "version": "6.2.1",
   "description": "The official MongoDB connector for the LoopBack framework.",
   "publishConfig": {
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/TopTechnologies/my-loopback-connector-mongodb.git"
+    "url": "git://github.com/TopTechnologies/loopback-connector-my-mongodb.git"
   },
   "keywords": [
     "connector",
