@@ -1,6 +1,6 @@
 {
   "name": "my-loopback-connector-mongodb",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "description": "The official MongoDB connector for the LoopBack framework.",
   "publishConfig": {
     "access": "public",
