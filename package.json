@@ -9,7 +9,7 @@
     ]
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=20"
   },
   "author": "IBM Corp.",
   "main": "index.js",
