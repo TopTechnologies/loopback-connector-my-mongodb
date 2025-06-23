@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-my-mongodb",
-  "version": "7.0.0-alpha.4",
+  "version": "7.0.1",
   "description": "The official MongoDB connector for the LoopBack framework.",
   "publishConfig": {
     "access": "public",
@@ -40,10 +40,9 @@
   "license": "MIT",
   "dependencies": {
     "async": "^3.2.6",
-    "bson": "^1.1.6",
     "debug": "^4.4.1",
-    "loopback-connector": "^5.3.3",
-    "mongodb": "^5.9.2",
+    "loopback-connector": "^6.2.1",
+    "mongodb": "^6.17.0",
     "strong-globalize": "^6.0.6"
   },
   "devDependencies": {
