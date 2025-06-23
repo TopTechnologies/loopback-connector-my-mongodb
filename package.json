@@ -1,9 +1,15 @@
 {
-  "name": "loopback-connector-mongodb",
+  "name": "loopback-connector-my-mongodb",
   "version": "7.0.0-alpha.4",
   "description": "The official MongoDB connector for the LoopBack framework.",
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
   "engines": {
-    "node": "18 || 20"
+    "node": ">=18"
   },
   "author": "IBM Corp.",
   "main": "index.js",
@@ -23,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/loopbackio/loopback-connector-mongodb.git"
+    "url": "git://github.com/TopTechnologies/loopback-connector-my-mongodb.git"
   },
   "keywords": [
     "connector",
